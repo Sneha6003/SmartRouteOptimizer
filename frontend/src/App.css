@@ -1,0 +1,70 @@
+/* App.css */
+
+/* General body styles */
+body {
+  background-color: #f8f9fa; /* Light background for a clean, professional look */
+  min-height: 100vh;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #495057; /* Dark grey for text */
+}
+
+/* Header Styling */
+h2 {
+  color: #007bff; /* Primary color for header */
+  font-weight: 700; /* Bold font weight for emphasis */
+  font-size: 2.5rem; /* Larger font size for prominence */
+  text-transform: uppercase; /* Makes the text all uppercase */
+  letter-spacing: 2px; /* Adds space between letters for a more professional look */
+  text-align: center; /* Centers the heading */
+  margin-bottom: 40px; /* Adds space between the heading and the content */
+  text-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow for more depth */
+  font-family: 'Roboto', sans-serif; /* Modern Google font for a sleek feel */
+}
+
+/* Card styles for better depth and separation */
+.card {
+  background-color: white;
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+  border-radius: 10px; /* Rounded corners */
+}
+
+/* Button styling */
+.btn-primary, .btn-success {
+  padding: 12px 20px;
+  font-size: 16px;
+  border-radius: 50px;
+  transition: background-color 0.3s ease;
+}
+
+/* Button hover effects */
+.btn-primary:hover, .btn-success:hover {
+  background-color: #0056b3;
+  color: white;
+}
+
+/* Table styling */
+.table-bordered {
+  border: 1px solid #ddd;
+}
+
+.table-light {
+  background-color: #f8f9fa;
+}
+
+.table th, .table td {
+  padding: 12px;
+  text-align: center;
+}
+
+/* Alert message styles */
+.alert-info {
+  font-weight: bold;
+  color: #0062cc;
+  border-color: #b8daff;
+}
+
+.spinner-border-sm {
+  width: 20px;
+  height: 20px;
+}
