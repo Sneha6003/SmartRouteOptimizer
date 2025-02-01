@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Sneha6003",
+      "name": "Sneha6003",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147996970?v=4",
+      "profile": "https://github.com/Sneha6003",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "SmartRouteOptimizer",
+  "projectOwner": "Sneha6003"
+}

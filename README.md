@@ -1,4 +1,7 @@
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 # SmartRoute Optimizer
 
 SmartRoute Optimizer is an AI/ML-based solution designed to optimize last-mile delivery planning for grocery and essential item deliveries. The system automates shipment clustering, vehicle assignment, and route sequencing while considering multiple constraints like time slots, vehicle capacities, and distance minimization.
@@ -96,3 +99,25 @@ The frontend will run at http://localhost:3000/
 ## Demo
 
 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Sneha6003"><img src="https://avatars.githubusercontent.com/u/147996970?v=4?s=100" width="100px;" alt="Sneha6003"/><br /><sub><b>Sneha6003</b></sub></a><br /><a href="https://github.com/Sneha6003/SmartRouteOptimizer/commits?author=Sneha6003" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
