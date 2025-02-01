@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 # SmartRoute Optimizer
 
@@ -111,6 +111,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Sneha6003"><img src="https://avatars.githubusercontent.com/u/147996970?v=4?s=100" width="100px;" alt="Sneha6003"/><br /><sub><b>Sneha6003</b></sub></a><br /><a href="https://github.com/Sneha6003/SmartRouteOptimizer/commits?author=Sneha6003" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/nancyvora"><img src="https://avatars.githubusercontent.com/u/176607793?v=4?s=100" width="100px;" alt="nancyvora"/><br /><sub><b>nancyvora</b></sub></a><br /><a href="https://github.com/Sneha6003/SmartRouteOptimizer/commits?author=nancyvora" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
